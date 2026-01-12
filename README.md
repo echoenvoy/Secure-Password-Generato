@@ -19,10 +19,6 @@ A comprehensive, cryptographically secure password generator and manager impleme
 - [🔐 Security](#-security)
 - [🧪 Testing](#-testing)
 - [📁 Project Structure](#-project-structure)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📞 Contact & Support](#-contact--support)
-- [🌟 Star History](#-star-history)
 
 ---
 
