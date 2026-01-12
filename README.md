@@ -460,21 +460,3 @@ For security vulnerabilities, please **DO NOT** open a public issue. Instead, co
 </div>
 
 ---
-
-## 📝 **Citation**
-
-If you use this project in your research or work, please cite it:
-
-```bibtex
-@software{password_generator_2024,
-  title = {Secure Password Generator v2.0},
-  author = {Password Security Research Group},
-  year = {2024},
-  url = {https://github.com/yourusername/password-generator},
-  version = {2.0.0}
-}
-```
-
----
-
-**Happy and secure password generating! 🔒✨**
